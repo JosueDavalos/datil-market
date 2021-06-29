@@ -30,7 +30,8 @@
 		"eject": "react-scripts eject",
 		"lint": "eslint src/components",
 		"lint-fix": "eslint src/App.js --fix",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -d build",
+		"test2": "jest"
 	},
 	"browserslist": {
 		"production": [
