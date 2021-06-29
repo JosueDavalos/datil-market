@@ -1,0 +1,7 @@
+{
+    "homepage": "http://JosueDavalos.github.io/datil-market",
+    "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+        }
+}
