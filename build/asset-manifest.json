@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/datil-market/static/css/main.0b69f70e.chunk.css",
-    "main.js": "/datil-market/static/js/main.fc16926d.chunk.js",
-    "main.js.map": "/datil-market/static/js/main.fc16926d.chunk.js.map",
-    "runtime-main.js": "/datil-market/static/js/runtime-main.587cbb0f.js",
-    "runtime-main.js.map": "/datil-market/static/js/runtime-main.587cbb0f.js.map",
+    "main.js": "/datil-market/static/js/main.014d40a6.chunk.js",
+    "main.js.map": "/datil-market/static/js/main.014d40a6.chunk.js.map",
+    "runtime-main.js": "/datil-market/static/js/runtime-main.23338f40.js",
+    "runtime-main.js.map": "/datil-market/static/js/runtime-main.23338f40.js.map",
     "static/css/2.bc03055f.chunk.css": "/datil-market/static/css/2.bc03055f.chunk.css",
-    "static/js/2.ce0cc793.chunk.js": "/datil-market/static/js/2.ce0cc793.chunk.js",
-    "static/js/2.ce0cc793.chunk.js.map": "/datil-market/static/js/2.ce0cc793.chunk.js.map",
+    "static/js/2.d48bd031.chunk.js": "/datil-market/static/js/2.d48bd031.chunk.js",
+    "static/js/2.d48bd031.chunk.js.map": "/datil-market/static/js/2.d48bd031.chunk.js.map",
     "index.html": "/datil-market/index.html",
     "static/css/2.bc03055f.chunk.css.map": "/datil-market/static/css/2.bc03055f.chunk.css.map",
     "static/css/main.0b69f70e.chunk.css.map": "/datil-market/static/css/main.0b69f70e.chunk.css.map",
-    "static/js/2.ce0cc793.chunk.js.LICENSE.txt": "/datil-market/static/js/2.ce0cc793.chunk.js.LICENSE.txt",
+    "static/js/2.d48bd031.chunk.js.LICENSE.txt": "/datil-market/static/js/2.d48bd031.chunk.js.LICENSE.txt",
     "static/media/logo_datil.eefb0dca.png": "/datil-market/static/media/logo_datil.eefb0dca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.587cbb0f.js",
+    "static/js/runtime-main.23338f40.js",
     "static/css/2.bc03055f.chunk.css",
-    "static/js/2.ce0cc793.chunk.js",
+    "static/js/2.d48bd031.chunk.js",
     "static/css/main.0b69f70e.chunk.css",
-    "static/js/main.fc16926d.chunk.js"
+    "static/js/main.014d40a6.chunk.js"
   ]
 }
